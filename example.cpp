@@ -1,6 +1,6 @@
-#include <iostream>
+#include <iostream> // Include the input/output stream library
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
+    std::cout << "Hello, World!" << std::endl; // Output the text
+    return 0; // Indicate that the program ended successfully
 }
